@@ -8,7 +8,7 @@
 I'm an Economics student at UFPR 🏛, that also works as a Web Developer 👨‍💻.
 Some of my other passions are Data Science 👨‍🔬, Investments 📈, Cinema 🎥 and Gaming 🎮
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github 2 years ago.
 
 Like My Work? Get in touch!
 

@@ -1,16 +1,10 @@
-### Hey, I'm Abdul Haidar!
-
-[![Linkedin Badge](https://cdn-icons-png.flaticon.com/32/61/61109.png)](https://www.linkedin.com/in/abdulhdr/)
-[![Hacker Rank Badge](https://img.icons8.com/windows/32/hackerrank.png)](https://www.hackerrank.com/abdulhdr1/)
-[![Instagram Badge](https://cdn-icons-png.flaticon.com/32/61/61164.png)](https://www.instagram.com/abdulhdr1/)
-
-I'm an economics student that curiously works as a web developer
-Some of my other passions are data science, investments, stem 
+[![Linkedin Badge](https://shields.io/badge/linkedin-linkedin?logo=linkedin&color=0077b6&style=for-the-badge)](https://www.linkedin.com/in/abdulhdr/)
+[![Hacker Rank Badge](https://shields.io/badge/hackerrank-hackerrank?logo=hackerrank&color=ffffff&style=for-the-badge)](https://www.hackerrank.com/abdulhdr1/)
+[![Youtube Badge](https://shields.io/badge/youtube-youtube?logo=youtube&color=d62828&style=for-the-badge)](https://www.youtube.com/channel/UC_GHTm6yy5oMJ15H1iu6wxA)
+[![Medium Badge](https://shields.io/badge/medium-medium?logo=medium&color=000000&style=for-the-badge)](https://medium.com/@abdulhdr)
 
 ### About me:
-
-- Working with javascript using react, redux and jest @SBanco as mid-level front-end engineer
-- I've already used vuejs, nextjs, typescript
-- Currently learning OCaml, Reason. Also interested in type systems, programming languages and cs  
-- You can reach me at any of my socials
-- [do what you cant](https://www.youtube.com/watch?v=jG7dSXcfVqE)
+- Working in front-end problems in a finance startup in Brazil 
+- Currently learning the newest hottest thing. 
+- Interested in PL design, web-app experiences, analytics, complex interfaces and optimizations
+- Too many side projects, too little time

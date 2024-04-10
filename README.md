@@ -4,7 +4,7 @@
 [![Medium Badge](https://shields.io/badge/medium-medium?logo=medium&color=000000&style=for-the-badge)](https://medium.com/@abdulhdr)
 
 ### About me:
-- Working in front-end problems in a finance startup in Brazil 
-- Currently learning the newest hottest thing. 
-- Interested in PL design, web-app experiences, analytics, complex interfaces and optimizations
+- Working on a cybersecurity platform
+- Currently learning the newest hottest thing
+- Interested in OSS, PL design, web-app experiences, analytics, complex interfaces and optimizations
 - Too many side projects, too little time

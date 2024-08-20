@@ -8,3 +8,6 @@
 - Currently learning the newest hottest thing
 - Interested in OSS, PL design, web-app experiences, analytics, complex interfaces and optimizations
 - Too many side projects, too little time
+
+
+![](https://wakapi.dev/api/badge/abdulhdr1/interval:today?label=coding%20time%20today)

@@ -10,4 +10,4 @@
 - Too many side projects, too little time
 
 
-![](https://wakapi.dev/api/badge/abdulhdr1/interval:today?label=coding%20time%20today)
+[![](https://wakapi.dev/api/badge/abdulhdr1/interval:today?label=coding%20time%20today)](https://wakapi.dev/)

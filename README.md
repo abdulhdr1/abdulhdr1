@@ -9,5 +9,4 @@
 - Interested in OSS, PL design, web-app experiences, analytics, complex interfaces and optimizations
 - Too many side projects, too little time
 
-
-[![](https://wakapi.dev/api/badge/abdulhdr1/interval:today?label=coding%20time%20today)](https://wakapi.dev/)
+[![wakatime](https://wakatime.com/badge/user/018ec31e-8bb6-43ef-bfba-5170dc05062a.svg?style=flat-square)](https://wakatime.com/@abdulhdr1?style=plastic)
